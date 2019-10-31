@@ -1,0 +1,13 @@
+net:'/home/nrupatunga/Work-2017/DeepLearning/Code/PY-GOTURN/nets/tracker.prototxt'
+base_lr: 0.000001
+lr_policy: "step"
+gamma: 0.1
+stepsize: 100000
+display: 20
+max_iter: 450000
+momentum: 0.9
+weight_decay: 0.0005
+snapshot: 50000
+snapshot_prefix: "./dump_model" # change as per your need
+device_id: 0
+solver_mode: GPU
