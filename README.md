@@ -9,6 +9,8 @@ Keywords: autonomous, drone, detection, tracking, real-time, moving camera, YOLO
 
 ## Demo 
 
+A demo of the code running on the Nvidia Jetson TX2 is available on YouTube:
+
 https://www.youtube.com/watch?v=kLVupa1nkZs
 
 ## Requirements 
