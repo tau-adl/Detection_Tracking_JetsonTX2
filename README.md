@@ -28,7 +28,7 @@ All other required packages are defined in the ”requirement.txt” file. They 
 $ pip install -r requirements.txt
 
 
-### Goturn tracking weights
+### Goturn Caffe model
 
 Because of the file size, the GOTURN caffe model wasn't uploaded to the git. Please downloaded or train it and copy the file "tracke.caffemodel" to the folder: goturn/nets/
 
