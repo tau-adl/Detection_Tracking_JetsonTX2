@@ -30,7 +30,7 @@ $ pip install -r requirements.txt
 
 ### Goturn Caffe model
 
-Because of the file size, the GOTURN caffe model wasn't uploaded to the git. Please downloaded or train it and copy the file "tracke.caffemodel" to the folder: goturn/nets/
+Because of the file size, the GOTURN Caffe model wasn't uploaded to the git. Please downloaded or train it and copy the file "tracke.caffemodel" to the folder: goturn/nets/
 
 The goturn pre-trained model can be downloaded in the following link: http://cs.stanford.edu/people/davheld/public/GOTURN/weights_init/tracker_init.caffemodel
 
