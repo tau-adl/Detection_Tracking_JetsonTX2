@@ -27,6 +27,15 @@ https://www.youtube.com/watch?v=kLVupa1nkZs
 All other required packages are defined in the ”requirement.txt” file. They can all be installed in your shell using the command: 
 $ pip install -r requirements.txt
 
+
+### Goturn tracking weights
+
+Because of the file size, the GOTURN caffe model wasn't uploaded to the git. Please downloaded or train it and copy the file "tracke.caffemodel" to the folder: goturn/nets/
+
+The goturn pre-trained model can be downloaded in the following link: http://cs.stanford.edu/people/davheld/public/GOTURN/weights_init/tracker_init.caffemodel
+
+If you wish to retrain the model please refer to David Held's repository: https://github.com/davheld/GOTURN
+
 ## Acknowledgment 
 This code has been done thanks to the work available in the following github repositories:
 
