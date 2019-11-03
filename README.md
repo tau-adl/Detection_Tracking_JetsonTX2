@@ -1,5 +1,5 @@
 # Real-time Drone Detection and Tracking on Jetson TX2
-This code is a real-time algorithm for Visual Detection and Tracking on the Nvidia Jetson TX2 using YOLOv3 and GOTURN. 
+This code is a real-time algorithm for Visual Drone Detection and Tracking on the Nvidia Jetson TX2 using YOLOv3 and GOTURN. 
 ## Abstract
 
 Today’s technology is evolving towards autonomous systems and the demand in autonomous drones,
