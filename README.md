@@ -37,7 +37,7 @@ All other required packages are defined in the ”requirement.txt” file. They 
 $ pip install -r requirements.txt
 
 ## Acknowledgment 
-This code has been done based on the work available in the following github repositories:
+This code has been done thanks to the work available in the following github repositories:
 
 https://github.com/davheld/GOTURN
 
