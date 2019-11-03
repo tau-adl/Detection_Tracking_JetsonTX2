@@ -39,11 +39,11 @@ If you wish to retrain the model please refer to David Held's repository: https:
 ## Acknowledgment 
 This code has been done thanks to the work available in the following github repositories:
 
-https://github.com/davheld/GOTURN
+https://github.com/davheld/GOTURN (C++ orginal GOTURN algorithm by David Held)
 
-https://github.com/nrupatunga/PY-GOTURN/
+https://github.com/nrupatunga/PY-GOTURN/ (Python Caffe implementation of David Held's GOTURN)
 
-https://github.com/ultralytics/yolov3
+https://github.com/ultralytics/yolov3 (Python implementation of YOLOv3 by ultralytics) 
 
 
 
