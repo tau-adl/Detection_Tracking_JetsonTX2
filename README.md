@@ -23,10 +23,6 @@ https://www.youtube.com/watch?v=kLVupa1nkZs
 
 #### 4. Pytorch 1.0.0
 
-#### 5. Others
-All other required packages are defined in the ”requirement.txt” file. They can all be installed in your shell using the command: 
-$ pip install -r requirements.txt
-
 
 ### Goturn Caffe model
 
